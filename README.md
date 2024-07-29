@@ -61,7 +61,7 @@ def predict_masked_words(sentence):
 
     return predicted_tokens
 ```
-### Streamlit Applciation
+### Streamlit Application
 ```bash
 # Streamlit app
 st.title("BERT Masked Word Predictor")
